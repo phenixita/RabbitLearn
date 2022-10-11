@@ -13,7 +13,7 @@ class Publisher
         using (var connection = factory.CreateConnection())
         using (var channel = connection.CreateModel())
         {
-            // Dichiaro l'exchange dove pubblico i miei messaggi e con impostazione Fanout.
+            // Dichiaro l'exchange dove pubblico i miei messaggi e con impostazione Direct.
             channel.ExchangeDeclare(exchange: Exchange_Topolino, type: ExchangeType.Direct);
 
             while (true)
