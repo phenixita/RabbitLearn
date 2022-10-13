@@ -9,4 +9,4 @@ Learning RabbitMQ and messaging.
 [Tutorial Publisher Subscriber](https://youtu.be/dZgGkDq_zY8)
 
 ## 03 - Routing
-[TBA]
+[Tutorial Routing](https://www.youtube.com/watch?v=kviiHBatB7s)
