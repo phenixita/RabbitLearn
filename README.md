@@ -12,4 +12,4 @@ Learning RabbitMQ and messaging.
 [Tutorial Routing](https://www.youtube.com/watch?v=kviiHBatB7s)
 
 ## 04 - Routing
-[Tutorial Topic]([https://www.youtube.com/watch?v=kviiHBatB7s](https://youtu.be/KxHwYiJSvm0))
+[Tutorial Topic](https://youtu.be/KxHwYiJSvm0)
